@@ -12,6 +12,8 @@ Small Windows tray app to view and switch currency locale format.
 ## Author
 
 - Owner
+- Harry Joseph
+- June 08 2026
 
 ## Screenshots
 
