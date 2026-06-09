@@ -17,13 +17,29 @@ Small Windows tray app to view and switch currency locale format.
 
 ## Screenshots
 
-### Tray Menu
+### 1) Current format (French)
 
-![Tray Menu](.vscode/Screenshot%202026-06-08%20142155.png)
+Basic info: existing/current locale is `fr-CA`, symbol is suffix, and thousands separator is non-breaking space.
 
-### Format Details
+![Current Format - French](.vscode/Screenshot%202026-06-08%20142155.png)
 
-![Format Details](.vscode/Screenshot%202026-06-08%20142347.png)
+### 2) Change format menu (switch target)
+
+Basic info: this shows the menu while French is currently selected (`fr-CA`); pick `en-CA` to switch to English style.
+
+![Change Format Menu](.vscode/Screenshot%202026-06-08%20142347.png)
+
+### 3) Hover tooltip (current/existing format)
+
+Basic info: hovering over the tray icon shows the live current value and locale.
+
+![Hover Tooltip - Current Format](.vscode/Screenshot%202026-06-09%20081136.png)
+
+### 4) After switch (English)
+
+Basic info: after switching to English locale (`en-CA`), format changes to `12,345.67` with dot decimal and comma thousands separator.
+
+![After Switch - English](.vscode/Screenshot%202026-06-09%20081510.png)
 
 ## English
 
