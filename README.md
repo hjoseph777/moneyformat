@@ -19,7 +19,7 @@ Small Windows tray app to view and switch currency locale format.
 
 ### 1) Current format (French)
 
-Basic info: existing/current locale is `fr-CA`, symbol is suffix, and thousands separator is non-breaking space.
+Basic info: after switching to French locale (`fr-CA`), format changes to `12 345,67 $` with comma decimal, space thousands separator, and suffix symbol.
 
 ![Current Format - French](.vscode/Screenshot%202026-06-08%20142155.png)
 
